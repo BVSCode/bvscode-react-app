@@ -1,0 +1,14 @@
+for function based Component type "rfc" React functional Component will import
+
+to import Component just type Component tag in function 
+ex just type <Navbar/> in function it will be import Navbar from the Component 
+
+
+BVSCode video embeded link
+<iframe width="956" height="538" src="https://www.youtube.com/embed/TcoTvrpWgkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+new command for creating backend client "rafce" name:react Arrow function export component
+
+DATABASE->Collections->Documents=JSON
